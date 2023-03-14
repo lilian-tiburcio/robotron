@@ -2,7 +2,7 @@
 
 ![Robotron-2000](https://user-images.githubusercontent.com/112278577/225157849-de665691-2ad8-47a0-99a6-3d1d573602d8.png)
 
-<h2>Descrição do Projeto</h2>
+<h1>Descrição do Projeto</h1>
 
 <p> Projeto feito durante o curso Formação JavaScript da Alura. O objetivo do curso era aplicar conhecimentos JS em DOM</p>
 
